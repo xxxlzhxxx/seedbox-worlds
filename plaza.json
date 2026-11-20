@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "种子广场",
+  "places": {
+    "entrance": "入口",
+    "fountain": "喷泉",
+    "bench": "长椅",
+    "bookshop": "书店"
+  },
+  "paths": [
+    ["entrance", "fountain"],
+    ["fountain", "bench"],
+    ["fountain", "bookshop"]
+  ]
+}
